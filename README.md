@@ -193,9 +193,13 @@ This ensures *real-time sync, **high availability, and **continuous delivery*.
 ## 📈 Use Cases & Benefits
 
 ✔ *Students* → Easy access to marks, assignments, and notifications
+
 ✔ *Faculty* → Efficient class management, assignment uploads, real-time student reports
+
 ✔ *Admins* → Full academic governance with secure dashboards
+
 ✔ *Institutions* → Reduced paperwork, automated reports, cloud reliability
+
 ✔ *Scalability* → Can handle multiple departments, courses, and thousands of students
 
 ---
