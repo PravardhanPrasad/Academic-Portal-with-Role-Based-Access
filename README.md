@@ -96,9 +96,12 @@ firebase/
 
 │── public/                 # Frontend static assets
 
-│── src/                    # React components 
+│── src/                    # React components
+
 │   ├── components/
-│   │   ├── Student/        # Student dashboard views 
+
+│   │   ├── Student/        # Student dashboard views
+
 │   │   ├── Teacher/        # Faculty dashboard views 
 
 │   │   ├── Admin/          # Admin dashboard views
@@ -108,24 +111,43 @@ firebase/
 │
 
 │── scripts/                # Node.js scripts for automation
+
 │   ├── import.js           # Bulk import of student data
+
 │   ├── importteachers.js   # Faculty onboarding
+
 │   ├── imprtsubject.js     # Subject onboarding
+
 │   ├── importmarks.js      # Marks upload
+
 │   ├── assigntectosub.js   # Assign faculty to subjects
+
 │   ├── rolediv.js          # Role-based access setup
+
 │   └── updateuid.js        # Sync/update UIDs
+
 │
+
 │── data/                   # JSON datasets
+
 │   ├── Stud.json
+
 │   ├── teachers.json
+
 │   ├── subjects.json
+
 │   └── marks_data.json
+
 │
+
 │── firebase.json           # Firebase hosting config
+
 │── firestore.rules         # Firestore security rules
+
 │── firestore.indexes.json  # Firestore indexes
+
 │── package.json            # Dependencies & scripts
+
 │── interface.jpg           # UI preview/mockup
 
 
