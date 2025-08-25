@@ -95,13 +95,9 @@ This portal is actively being developed as a *production-ready solution, with **
 firebase/
 
 │── public/                 # Frontend static assets
-
 │── src/                    # React components
-
 │   ├── components/
-
 │   │   ├── Student/        # Student dashboard views
-
 │   │   ├── Teacher/        # Faculty dashboard views
 
 │   │   ├── Admin/          # Admin dashboard views
